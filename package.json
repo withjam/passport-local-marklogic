@@ -1,0 +1,23 @@
+{
+  "name": "passport-marklogic",
+  "version": "0.0.1",
+  "description": "passport authentication strategy using MarkLogic",
+  "main": "passport-marklogic.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/withjam/passport-marklogic.git"
+  },
+  "keywords": [
+    "marklogic",
+    "passport",
+    "authentication",
+    "ml8",
+    "nodejs"
+  ],
+  "author": "Matt Pileggi",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/withjam/passport-marklogic/issues"
+  },
+  "homepage": "https://github.com/withjam/passport-marklogic"
+}
